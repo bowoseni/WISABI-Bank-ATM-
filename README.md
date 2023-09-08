@@ -1,11 +1,13 @@
 # WISABI-Bank-ATM-
-*Data Source*
+**Data Source**
 Data - Wisabi Bank Dataset - https://www.kaggle.com/datasets/obinnaiheanachor/wisabi-bank-dataset
 
-*Data Cleaning & Analysis*
+**Data Cleaning & Analysis**
+
 PowerBI
 
-*Data Visualization*
+**Data Visualization**
+
 PowerBI
 
 **Project Brief**
@@ -22,7 +24,7 @@ iii.	Which age group has the highest number of transactions, and which transacti
 iv.	What is the trend of transaction volume and transaction amount over time, and are there any seasonal trends or patterns?
 v.	What is the most common transaction type, and how does it vary by location and customer type (Wisabi customer vs. non-Wisabi customer)?
 vi.	What is the average transaction amount and transaction frequency per customer by occupation and age group?
-vii.	What is the percentage of transactions that are withdrawals, savings, balance enquiries, and transfers, and how does it vary by location and time of day?
+vii.	What is the percentage of transactions that are withdrawals, savings, balance inquiries, and transfers, and how does it vary by location and time of day?
 viii.	What is the distribution of transaction amounts and transaction frequency, and are there any outliers?
 ix.	Which ATM locations have the highest and lowest utilization rates, and what factors contribute to this utilization rate?
 x.	What is the average transaction time by location, transaction type, and time of day, and how does it vary by customer type and occupation?
@@ -37,6 +39,6 @@ Conclusion
 The data analytics project for Wisabi Bank is an important initiative that will help the bank to understand its ATM transactions data and improve its operations. The external consultant will work closely with the Wisabi Bank team to ensure that the project is successful and delivers the expected results.
 
 
-*Limitations*
+**Limitations**
 Some records had negative ages and these were excluded during querying(967 records). The ages used were 18 years and above.
 Some term dates were far into the future and were not included in the analysis(1599 records). The only term dates used were those less than or equal to the current date.
